@@ -24,4 +24,4 @@ const JobListings = () => {
   )
 }
 
-export default JobListing
+export default JobListings
